@@ -4,7 +4,7 @@
 import os
 from configparser import ConfigParser
 
-from helper.db_helper import DatabaseHelper
+from helpers.db_helper import DatabaseHelper
 
 
 def init_config(conf_path):
